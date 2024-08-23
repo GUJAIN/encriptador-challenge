@@ -145,10 +145,10 @@ body{
 .firma{
     text-decoration: none;
     font-family: var(--fuente-principal);
-    color:#aa9348;
+    color:#c6ccc2;
     font-size: medium;
     font-weight: bold;
-    background-color:#030302;
+    background-color:#00ABE4;
     display: flex;
     text-align: center;
     justify-content: center;
